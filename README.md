@@ -1,5 +1,5 @@
 # SpaceShipML
-A Machine Learning project which predicts whether a crash sent the spaceship occupants into a time lapse or not. Uses multiple model approaches.
+A Machine Learning project which predicts whether a crash transported the occupants into an alternative dimension or not. Uses multiple model approaches.
 
 Approach 1: Logistic Regression
              Score: 0.78863
