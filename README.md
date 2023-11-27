@@ -9,4 +9,7 @@ Approach 2: Random Forest Classifier
 
 Our Random Forest Classifier scored worse. :(
 
+C-Support Vector Baseline
+            Score: 0.79448
 
+Even the baseline is a huge improvement
